@@ -50,7 +50,7 @@ Addition: 10 + 2 = 12
 Subtraction: 10 - 2 = 8
 Multiplication: 9 * 4 = 36
 Division = 10 / 2 = 5.0
-Modules: 8 % 3 = 0
+Modules: 8 % 3 = 2
 Exponentiation: 7 ** 2 = 49
 Floor Division: 25 // 2 = 12
 """)
